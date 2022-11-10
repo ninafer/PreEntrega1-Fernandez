@@ -1,11 +1,19 @@
 {
   "name": "preentrega1fernandez",
   "version": "1.0.0",
-  "description": "",
   "main": "simulador.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninafer/PreEntrega1-Fernandez.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ninafer/PreEntrega1-Fernandez/issues"
+  },
+  "homepage": "https://github.com/ninafer/PreEntrega1-Fernandez#readme",
+  "description": ""
 }
